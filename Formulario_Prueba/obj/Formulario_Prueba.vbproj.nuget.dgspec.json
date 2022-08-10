@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Home\\Documents\\PRUEBA DE DESARROLLO\\Formulario_Prueba\\Formulario_Prueba.vbproj": {}
+    "C:\\Users\\Home\\Documents\\PRUEBA DE DESARROLLO\\prueba_formulario\\Formulario_Prueba\\Formulario_Prueba.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Home\\Documents\\PRUEBA DE DESARROLLO\\Formulario_Prueba\\Formulario_Prueba.vbproj": {
+    "C:\\Users\\Home\\Documents\\PRUEBA DE DESARROLLO\\prueba_formulario\\Formulario_Prueba\\Formulario_Prueba.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Home\\Documents\\PRUEBA DE DESARROLLO\\Formulario_Prueba\\Formulario_Prueba.vbproj",
+        "projectUniqueName": "C:\\Users\\Home\\Documents\\PRUEBA DE DESARROLLO\\prueba_formulario\\Formulario_Prueba\\Formulario_Prueba.vbproj",
         "projectName": "Formulario_Prueba",
-        "projectPath": "C:\\Users\\Home\\Documents\\PRUEBA DE DESARROLLO\\Formulario_Prueba\\Formulario_Prueba.vbproj",
+        "projectPath": "C:\\Users\\Home\\Documents\\PRUEBA DE DESARROLLO\\prueba_formulario\\Formulario_Prueba\\Formulario_Prueba.vbproj",
         "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Home\\Documents\\PRUEBA DE DESARROLLO\\Formulario_Prueba\\obj\\",
+        "outputPath": "C:\\Users\\Home\\Documents\\PRUEBA DE DESARROLLO\\prueba_formulario\\Formulario_Prueba\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",

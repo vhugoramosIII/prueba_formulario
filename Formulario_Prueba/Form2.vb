@@ -2,6 +2,18 @@
 
 Public Class Form2
 
+    Public Sub limpiar()
+
+        nombres.Text = " "
+        apepat.Text = " "
+        apemat.Text = " "
+        domi.Text = " "
+        celular.Text = " "
+        email.Text = " "
+
+    End Sub
+
+
 
 
     Private Sub Label3_Click(sender As Object, e As EventArgs) Handles Label3.Click
@@ -24,6 +36,9 @@ Public Class Form2
         DataGridView1(2, tbl).Value = apemat.Text
         DataGridView1(3, tbl).Value = celular.Text
         DataGridView1(4, tbl).Value = email.Text
+
+        limpiar()
+
 
 
     End Sub
@@ -50,12 +65,7 @@ Public Class Form2
     End Sub
 
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
-        nombres.Text = " "
-        apepat.Text = " "
-        apemat.Text = " "
-        domi.Text = " "
-        celular.Text = " "
-        email.Text = " "
+        limpiar()
 
     End Sub
 End Class
